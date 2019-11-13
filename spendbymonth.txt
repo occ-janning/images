@@ -1,0 +1,26 @@
+[
+        {
+		"label": 2018,
+		"values":
+			[
+				{ "x":"June", "y": 77657},
+				{ "x":"July", "y": 88145},
+				{ "x":"August", "y":99714},
+				{ "x":"September", "y":66333},
+				{ "x":"October", "y":55100},
+				{ "x":"November", "y":38000}
+			]
+	},
+	{
+		"label": 2019,
+		"values":
+			[
+				{ "x":"June", "y":66321},
+				{ "x":"July", "y":93188},
+				{ "x":"August", "y":81177},
+				{ "x":"September", "y":101000},
+				{ "x":"October", "y":88557},
+				{ "x":"November", "y":45478}
+			]
+	}
+]
